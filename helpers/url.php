@@ -1,4 +1,3 @@
 <?php
 
-$port = '8282';
-$BASE_URL = "http://" . $_SERVER['SERVER_NAME'] . ':' . $port;
+$BASE_URL = "http://localhost:8282/";
